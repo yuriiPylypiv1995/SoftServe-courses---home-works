@@ -7,5 +7,6 @@ Zen of Python!
 7.Readability counts.
 
 16.Although never is often better than *right* now.
+19.Namespaces are one honking great idea -- let's do more of those!
 50.There should be one-- and preferably only one --obvious way to do it.
 
