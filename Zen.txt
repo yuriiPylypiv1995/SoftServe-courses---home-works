@@ -9,7 +9,9 @@ Zen of Python!
 7.Readability counts.
 
 8.Special cases aren't special enough to break the rules.
-13.There should be one-- and preferably only one --obvious way to do it.
+
+9.Although practicality beats purity.
+13.There should be one-- and preferably only one --obvious way to do it.
 
 16.Although never is often better than *right* now.
 
