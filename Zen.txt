@@ -27,4 +27,5 @@ Zen of Python!
 19.Namespaces are one honking great idea -- let's do more of those!
 
 50.eeeeeeeeeeeeeeeeeeeeeeeee
-50.eeeeeeeeeeeeeeeeeeeeeeeee
+24.Flat is better than nested.
+24.Flat is better than nested.
