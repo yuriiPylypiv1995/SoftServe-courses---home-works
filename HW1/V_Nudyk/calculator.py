@@ -1,5 +1,6 @@
 from time import sleep
 
+#just adding a small delay for personal visual meanings
 delay = 2
 longDelay = 5
 
