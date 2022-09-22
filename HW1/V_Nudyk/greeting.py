@@ -8,6 +8,7 @@ sleep(delay)
 
 userName = input("What is your name? ")
 
+#Adding a condition to prompt the user exactly fot a num
 while True:
     try: 
         userAge = int(input("How old are you? "))
