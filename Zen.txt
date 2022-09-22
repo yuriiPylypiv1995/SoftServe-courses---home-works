@@ -26,4 +26,5 @@ Zen of Python!
 
 19.Namespaces are one honking great idea -- let's do more of those!
 
-50.There should be one-- and preferably only one --obvious way to do it.
+50.eeeeeeeeeeeeeeeeeeeeeeeee
+50.eeeeeeeeeeeeeeeeeeeeeeeee
