@@ -28,4 +28,5 @@ Zen of Python!
 
 50.eeeeeeeeeeeeeeeeeeeeeeeee
 24.Flat is better than nested.
-24.Flat is better than nested.
+30.Unless explicitly silenced.
+30.Unless explicitly silenced.
