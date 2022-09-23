@@ -26,6 +26,8 @@ Zen of Python!
 
 19.Namespaces are one honking great idea -- let's do more of those!
 
+38.Namespaces are one honking great idea -- let's do more of those!Beautiful is better than ugly.
+
 50.eeeeeeeeeeeeeeeeeeeeeeeee
 24.Flat is better than nested.
 30.Unless explicitly silenced.
