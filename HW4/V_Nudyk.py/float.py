@@ -5,6 +5,7 @@ num_list = list(range(5))
 #       \\We create an empty list
 # num_list = []
 #       \\Then we define hoe many numbers do we take from the user
+#       \\We can ommit this stage and specify in the loop range(5) if needed
 # list_length = 5
 #       \\Then we loop the prompt and store the nums into the list
 # for num in range(list_length):
