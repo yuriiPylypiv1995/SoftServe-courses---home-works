@@ -10,10 +10,10 @@ fibonacci_list = [0, 1]
 
 # Now we create a loop to calculate the next num and add to the list
 while first_num + second_num < num_ceiling:
-    num = first_num + second_num
-    first_num = second_num
-    second_num = num
-    fibonacci_list.append(num)
+    num = first_num + second_num      # calculated the next num
+    first_num = second_num            # updated the first num by one
+    second_num = num                  # update the second num by one
+    fibonacci_list.append(num)        # updated the list
 
 # Print out the result
 print("The sequnce is: ")
