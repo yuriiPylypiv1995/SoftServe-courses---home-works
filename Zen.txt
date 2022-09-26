@@ -33,5 +33,5 @@ Zen of Python!
 38.Namespaces are one honking great idea -- let's do more of those!Beautiful is better than ugly.
 34.Now is better than never.
 36.If the implementation is hard to explain, it's a bad idea.
-36.If the implementation is hard to explain, it's a bad idea.
-
+23.Complex is better than complicated.
+23.Complex is better than complicated.
