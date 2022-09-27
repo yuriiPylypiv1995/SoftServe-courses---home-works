@@ -6,6 +6,8 @@ Zen of Python!
 
 3.Simple is better than complex.
 
+5.Flat is better than nested.
+
 6.Sparse is better than dense.
 
 7.Readability counts.
