@@ -37,4 +37,6 @@ Zen of Python!
 36.If the implementation is hard to explain, it's a bad idea.
 23.Complex is better than complicated.
 41.Complex is better than complicated.
-31.In the face of ambiguity, refuse the temptation to guess.31.In the face of ambiguity, refuse the temptation to guess.
+31.In the face of ambiguity, refuse the temptation to guess.
+25.Sparse is better than dense.
+25.Sparse is better than dense.
