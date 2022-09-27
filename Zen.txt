@@ -30,6 +30,8 @@ Zen of Python!
 50.eeeeeeeeeeeeeeeeeeeeeeeee
 24.Flat is better than nested.
 30.Unless explicitly silenced.
+
+31.In the face of ambiguity, refuse the temptation to guess.
 38.Namespaces are one honking great idea -- let's do more of those!Beautiful is better than ugly.
 39.If the implementation is easy to explain, it may be a good idea.
 
@@ -40,3 +42,5 @@ Zen of Python!
 31.In the face of ambiguity, refuse the temptation to guess.
 25.Sparse is better than dense.
 25.Sparse is better than dense.
+
+
