@@ -41,6 +41,7 @@ Zen of Python!
 39.If the implementation is easy to explain, it may be a good idea.
 
 34.Now is better than never.
+35.Although never is often better than *right* now.
 36.If the implementation is hard to explain, it's a bad idea.
 23.Complex is better than complicated.
 41.Complex is better than complicated.
