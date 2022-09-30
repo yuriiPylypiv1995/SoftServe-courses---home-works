@@ -7,4 +7,5 @@ def distance(x1, y1, x2, y2):
     return round(d, 2)                 # return the rounded val by 2
 
 # Print the result
-print(distance(1, 1, 0, 0))             
+print(distance(1, 1, 0, 0))
+
