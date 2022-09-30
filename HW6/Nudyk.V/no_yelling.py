@@ -16,7 +16,6 @@ def filter_words(st):
     return st
 
 
-
 print(filter_words(user_input))
 
 
