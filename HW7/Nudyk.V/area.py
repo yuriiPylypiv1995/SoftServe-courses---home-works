@@ -3,6 +3,7 @@
 # (write three functions to calculate the area, and call them in the
 # main program depending on the user's choice).
 
+
 def rectangle_area():
     ''' 
         Function to calculate the area of a rectangle.
@@ -29,21 +30,11 @@ def triangle_area():
     side_B = int(input('Enter the second side: '))
     side_C = int(input('Enter the third side: '))
 
-    triangle_type = input('What is the type of your triangle? (one word or first letter): ')
-    user_input = triangle_type.lower()
-
-    if user_input == 'equilateral' or user_input == 'e':
+    if side_A == side_B == side_C:
         return print('Triangle area = ', round(side_A**2 * 3**0.5) / 4)
-    elif user_input == 'isoceles' or user_input == 'i':
-        if side_A == side_B:
-            Height = (side_A**2 - (side_C/2)**2)**0.5
-            return print('Triangle area = ', round(((side_C*Height) / 2), 2))
-        elif side_A == side_C:
-            Height = (side_A**2 - (side_B/2)**2)**0.5
-            return print('Triangle area = ', round(((side_B*Height) / 2), 2))
-        else:
-            Height = (side_B**2 - (side_A/2)**2)**0.5
-            return print('Triangle area = ', round(((side_A*Height) / 2), 2))
+    elif side_A == side_B and side_A != side_C:
+        Height = (side_A**2 - (side_C/2)**2)**0.5
+        return print('This is a Isoceles triangle with area = ', round(((side_C*Height) / 2), 2))
     else:
         half_P = (side_A + side_B + side_C) / 2
         S_area = (half_P*(half_P - side_A)*(half_P - side_B)*(half_P - side_C))**0.5
@@ -56,9 +47,9 @@ def circle_area():
         To run the program just enter the radius of the given circle.
     '''
 
-    P = 3.14159
+    Pi = 3.14159
     radius = int(input('Please enter the radius of the circle: '))
-    return print('The circle\'s area is: ', round((P*radius**2), 2))
+    return print('The circle\'s area is: ', round((Pi*radius**2), 2))
 
 def main():
     ''' 
@@ -78,3 +69,27 @@ def main():
         
           
 main()
+
+
+
+
+# First version of the triangle_area
+    # triangle_type = input('What is the type of your triangle? (one word or first letter): ')
+    # user_input = triangle_type.lower()
+
+    # if user_input == 'equilateral' or user_input == 'e':
+    #     return print('Triangle area = ', round(side_A**2 * 3**0.5) / 4)
+    # elif user_input == 'isoceles' or user_input == 'i':
+    #     if side_A == side_B:
+    #         Height = (side_A**2 - (side_C/2)**2)**0.5
+    #         return print('Triangle area = ', round(((side_C*Height) / 2), 2))
+    #     elif side_A == side_C:
+    #         Height = (side_A**2 - (side_B/2)**2)**0.5
+    #         return print('Triangle area = ', round(((side_B*Height) / 2), 2))
+    #     else:
+    #         Height = (side_B**2 - (side_A/2)**2)**0.5
+    #         return print('Triangle area = ', round(((side_A*Height) / 2), 2))
+    # else:
+    #     half_P = (side_A + side_B + side_C) / 2
+    #     S_area = (half_P*(half_P - side_A)*(half_P - side_B)*(half_P - side_C))**0.5
+    #     return print('The Scalene triangle\'s area is: ', round(S_area, 2))
