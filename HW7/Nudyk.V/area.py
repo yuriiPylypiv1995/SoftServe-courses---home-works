@@ -20,10 +20,7 @@ def triangle_area():
         Function to calculate the area of certain type of triangle:
         Equilateral, Isoceles, Scalene.
         The function does not depend on the angle's inside.
-        To use you need to:
-            1. Enter the sides of the triangle.
-            2. Enter the type of the triangle:
-                just one word or the first letter (the upper ot lowercase do not matter)
+        To use you need to enter the sides of the triangle.
     '''
 
     side_A = int(input('Enter the first side: '))
