@@ -6,9 +6,6 @@ end_number = input("Enter the end number of the list ")
 for number in range(0, int(end_number)+1):
     numbers.append(number)
 
-for number in range(0, int(end_number)+1):
-    numbers.append(number)
-
 print(min(numbers))
 print(max(numbers))
 
