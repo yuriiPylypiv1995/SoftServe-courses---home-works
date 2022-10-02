@@ -1,4 +1,4 @@
-# home work 5, task 2
+# home work 6, task 2
 
 user_login = input("Enter your login: ")
 

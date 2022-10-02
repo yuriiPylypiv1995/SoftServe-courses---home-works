@@ -1,4 +1,4 @@
-# class work 5, task 1 (using by min and max funcs)
+# class work 6, task 1 (using by min and max funcs)
 
 numbers = []
 end_number = input("Enter the end number of the list ")
@@ -9,7 +9,7 @@ for number in range(0, int(end_number)+1):
 print(min(numbers))
 print(max(numbers))
 
-# class work 5, task 1 (using by sorting algorithm)
+# class work 6, task 1 (using by sorting algorithm)
 
 for number in range(1, int(end_number)+1):
     min_number = 0

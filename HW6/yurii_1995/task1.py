@@ -1,4 +1,4 @@
-# home work 5, task 1
+# home work 6, task 1
 
 numbers = range(1, 11)
 
