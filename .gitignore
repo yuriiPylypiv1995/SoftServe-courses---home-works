@@ -1,12 +1,31 @@
 
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+<<<<<<< HEAD
 *.py[cod]
 .DS_Store
+=======
+>>>>>>> origin
 *$py.class
 
 # C extensions
 *.so
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin
 # Distribution / packaging
 .Python
 build/
@@ -128,3 +147,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.DS_Store
