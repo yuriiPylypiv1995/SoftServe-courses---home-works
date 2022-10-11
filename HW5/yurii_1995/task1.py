@@ -1,4 +1,4 @@
-# home work 4, task 2
+# home work 5, task 1
 
 numbers = [1, 3, 6, 67, 445, 3445, 8, 433, 1000]
 
