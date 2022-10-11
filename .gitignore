@@ -1,4 +1,7 @@
 
+.idea
+
+
 # Folder view configuration files
 .DS_Store
 Desktop.ini
@@ -13,19 +16,20 @@ Thumbs.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-<<<<<<< HEAD
+
 *.py[cod]
+
+# C extensions
+*.so
+*$py.class
+
 .DS_Store
-=======
->>>>>>> origin
+
 *$py.class
 
 # C extensions
 *.so
-<<<<<<< HEAD
-=======
 
->>>>>>> origin
 # Distribution / packaging
 .Python
 build/
