@@ -13,11 +13,8 @@ Thumbs.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-<<<<<<< HEAD
 *.py[cod]
 .DS_Store
-=======
->>>>>>> main
 *$py.class
 
 # C extensions
