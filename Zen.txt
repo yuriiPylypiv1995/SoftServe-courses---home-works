@@ -6,6 +6,8 @@ Zen of Python!
 
 3.Simple is better than complex.
 
+5.Flat is better than nested.
+
 6.Sparse is better than dense.
 
 7.Readability counts.
@@ -20,6 +22,8 @@ Zen of Python!
 
 14.Although that way may not be obvious at first unless you're Dutch.
 
+15.Now is better than never.
+
 16.Although never is often better than *right* now.
 
 17.If the implementation is hard to explain, it's a bad idea.
@@ -29,6 +33,9 @@ Zen of Python!
 
 50.eeeeeeeeeeeeeeeeeeeeeeeee
 24.Flat is better than nested.
+
+29.Errors should never pass silently.
+
 30.Unless explicitly silenced.
 
 31.In the face of ambiguity, refuse the temptation to guess.
@@ -36,6 +43,7 @@ Zen of Python!
 39.If the implementation is easy to explain, it may be a good idea.
 
 34.Now is better than never.
+35.Although never is often better than *right* now.
 36.If the implementation is hard to explain, it's a bad idea.
 23.Complex is better than complicated.
 41.Complex is better than complicated.
