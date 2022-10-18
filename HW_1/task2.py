@@ -1,14 +1,8 @@
-a = int(input())
-b = int(input())
+a = int(input("enter a: "))
+b = int(input("enter b: "))
 
-summa = a + b
-difference = a - b
-multiplication = a * b
-division = a/b
-degree = a**b
-
-print(summa)
-print(difference)
-print(multiplication)
-print(division)
-print(degree)
+print("додавання",a+b)
+print("віднімання",a-b)
+print("множення",a*b)
+print("ділення",(a/b))
+print("ступінь",a**b)
