@@ -1,5 +1,7 @@
 
+
 .idea
+
 
 
 # Folder view configuration files
@@ -17,7 +19,11 @@ Thumbs.db
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
+
 *.py[cod]
+
+*$py.class
+
 
 # C extensions
 *.so
@@ -31,6 +37,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+weather_key.py
 .Python
 build/
 develop-eggs/
