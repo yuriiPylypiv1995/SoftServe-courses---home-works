@@ -1,4 +1,4 @@
-# home work 4, task 3
+# home work 5, task 2
 
 finish_number = int(input("Please type your finish number for Sequence of Fibonacci "))
 sequence_of_fibonacci = [0, 1, ]
